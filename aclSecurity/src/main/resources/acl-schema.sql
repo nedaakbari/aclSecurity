@@ -1,3 +1,5 @@
+-- ////bealdung
+
 create table IF NOT EXISTS system_message (id integer not null, content varchar(255), primary key (id));
 
 CREATE TABLE IF NOT EXISTS acl_sid (
